@@ -14,7 +14,7 @@ Bubble/Insertion/Merge/Selection Sorts! Version 1.0.0 was released 05/02/21 @ 4:
 > In a matter of seconds. Watch the magic of sorting algorithms occur before your very eyes!
 >
 > Currently being hosted as a Heroku app
-> ACCESS AT: https://array-assemble.herokuapp.com/
+> https://array-assemble.herokuapp.com/
 >
 ----------------------------------------------------------------------------------------------------------------------------------
 
