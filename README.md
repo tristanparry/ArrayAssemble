@@ -1,3 +1,4 @@
+![arrayassemvle](https://user-images.githubusercontent.com/64918749/126927439-5d819fc3-0d2d-4ec8-a790-f39c75a85583.png)
 # ArrayAssemble
 
 A sorting algorithm visualizer built in React, including Bubble/Insertion/Merge/Selection Sorts
